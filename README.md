@@ -19,3 +19,9 @@ Frontend Developer from Ukraine</h1>
 - 🌱 I’m currently learning ["typescript"](https://www.udemy.com/course/modern_typescript/?couponCode=NEWYEARCAREER)
 - 📘 I'm also currently studying a course in ["Responsive Design"](https://www.freecodecamp.org/learn/2022/responsive-web-design/) and ["HackerRank"](https://www.hackerrank.com/skills-verification)
 - 🌍 I speak English, Ukrainian, Russian, German and Arabiс.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
