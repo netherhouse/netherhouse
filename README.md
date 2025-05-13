@@ -16,9 +16,10 @@ Frontend Developer from Ukraine</h1>
 
 <h3>About me </h3>
 
-- 🌱 I’m currently learning ["typescript"](https://www.udemy.com/course/modern_typescript/?couponCode=NEWYEARCAREER)
+- My website-portfolio [website-portfolio](https://d-portfolio-delta.vercel.app)
+- 🌱 I’m currently learning ["typescript"](https://www.udemy.com/course/modern_typescript/?couponCode=NEWYEARCAREER) 
 - 📘 I'm also currently studying a course in ["Responsive Design"](https://www.freecodecamp.org/learn/2022/responsive-web-design/) and ["HackerRank"](https://www.hackerrank.com/skills-verification)
-- 🌍 I speak English, Ukrainian, Russian, German and Arabiс.
+- 🌍 I speak English, German, Russian, Ukrainian and Arabiс.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/netherhouse/netherhouse/output/github-snake-dark.svg" />
